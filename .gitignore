@@ -57,3 +57,6 @@ build/
 *.ddy
 *.stat
 .DS_store
+
+#parquets
+*.parquet
